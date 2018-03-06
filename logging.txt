@@ -1,0 +1,10 @@
+logging text
+Date and Text2018-03-03.05:45:24test	wo wos dazua
+logging text
+Date and Text2018-03-03.05:53:01test	wo wos dazua
+logging text
+2018-03-03.05:53:17test	wo wos dazua
+2018-03-03.06:02:58 - wo wos dazua
+2018-03-06:14:14:25 - wo wos dazua
+2018-03-06:14:24:03 - wo wos dazua
+2018-03-06:14:27:15 - wo wos dazua
