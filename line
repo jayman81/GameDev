@@ -27,4 +27,27 @@ enemies lvl depents on map
 to low gives no exp
 
 
+Main Menu
+1. New Game
+2. Load
+3. Save
+4. Options
+---------
+5. Quit
+
+1.1
+Enter Player Name:
+
+1.2
+Choose Difficult
+
+2.
+Print Saved Game (if available)
+
+3.
+Only available when in Game
+
+4.1
+Sound on/off
+
 
